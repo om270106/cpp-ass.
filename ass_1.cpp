@@ -19,7 +19,7 @@ carObj1.year =  2021;
 // Create another object of Car
 Car carObj2;
 carObj2.brand = "Mercedes ";
-carObj2.model = "Gls 350D ";
+carObj2.model = "GLS 220D ";
 carObj2.year =  2003 ;
   
   //print attribute values
