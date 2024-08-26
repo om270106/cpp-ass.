@@ -12,14 +12,14 @@ int year;
 int main() {
 // Create an object of Car
 Car carObj1;
-carObj1.brand = "BMW";
-carObj1.model = " XM ";
+carObj1.brand = "Mahindra";
+carObj1.model = " Thar ";
 carObj1.year =  2021;
 
 // Create another object of Car
 Car carObj2;
-carObj2.brand = "Ford ";
-carObj2.model = "Endevour ";
+carObj2.brand = "Mercedes ";
+carObj2.model = "Gls 350D ";
 carObj2.year =  2003 ;
   
   //print attribute values
